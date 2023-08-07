@@ -1,3 +1,8 @@
+# git
+.gitignore
+.git/
+
+
 ## Editors:
 .vscode/
 .idea/
